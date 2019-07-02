@@ -1,0 +1,7 @@
+{
+  "appId": "com.example.poccapacitor",
+  "appName": "poc-capacitor",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "dist"
+}
