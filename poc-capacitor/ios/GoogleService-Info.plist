@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>736841599992-n2fgedr8g9hlgn7djv511o803bq39pf9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.736841599992-n2fgedr8g9hlgn7djv511o803bq39pf9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCtXxqaB9612gpDjg2m1XwqlOT4B2DPlGs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>736841599992</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.poccapacitor</string>
+	<key>PROJECT_ID</key>
+	<string>poc-capacitor</string>
+	<key>STORAGE_BUCKET</key>
+	<string>poc-capacitor.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:736841599992:ios:15ceb0298142366f</string>
+	<key>DATABASE_URL</key>
+	<string>https://poc-capacitor.firebaseio.com</string>
+</dict>
+</plist>
